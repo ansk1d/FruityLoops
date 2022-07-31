@@ -1,0 +1,23 @@
+@charset "UTF-8";
+h1{
+	color: #feb6c1fe;
+    margin: 30px;
+    margin-left: 60px;
+    margin-bottom: 80px;
+
+}
+
+table {
+    width: 70%;
+    box-shadow: #feb6c1fe 0px 0px 0px 30px;
+    align-items: center;
+    text-align: center;
+    margin-left: 90px;
+
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
